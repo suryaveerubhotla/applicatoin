@@ -1,0 +1,13 @@
+nmtui--> to activate connection for network
+nmcli--> connect without graphical
+ss--> verify the port num,bers
+ss -lt : grep ssh -->
+
+services:
+sudo systemctl enable sshd 
+sudo systemctl start sshd
+firewall-cmd --list-all 
+
+useradd 
+esc . --> previous path
+switch user su -tester
